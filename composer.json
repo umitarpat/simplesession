@@ -2,7 +2,7 @@
     "name": "umitarpat/SimpleSession",
     "description": "This package basic and simple php session class.",
     "type": "library",
-    "license": "MIT",
+    "license": "",
     "authors": [
         {
             "name": "Ümit Arpat",
